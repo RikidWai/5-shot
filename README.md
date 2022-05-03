@@ -1,5 +1,5 @@
 # 5-shot
-Individual Project for CS480 @UWaterloo 
+Kaggle Competition Project for CS480 @UWaterloo 
 
 ## Introduction
 To classify images of household objects, from a few training examples per class. The problem is known as few-shot learning. 
